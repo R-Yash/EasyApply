@@ -1,0 +1,359 @@
+Question,Answer
+"Have you completed the following level of education: Bachelor's Degree?
+Have you completed the following level of education: Bachelor's Degree?
+Required
+Yes
+No",user provided
+"Do you have a valid driver's license?
+Do you have a valid driver's license?
+Required
+Yes
+No",user provided
+"Do you have the following license or certification: Google Cloud Certified Professional Cloud Architect?
+Do you have the following license or certification: Google Cloud Certified Professional Cloud Architect?
+Required
+Yes
+No
+Please make a selection",user provided
+"have you completed the following level of education: bachelor's degree?
+have you completed the following level of education: bachelor's degree?
+required
+yes
+no",Yes
+how many years of work experience do you have with c++?,1
+"how many years of computer games experience do you currently have?
+enter a whole number between 0 and 99",1
+"how many years of engineering experience do you currently have?
+enter a whole number between 0 and 99",1
+"how many years of work experience do you have with unreal engine?
+enter a whole number between 0 and 99",1
+"how many years utilizing unreal engine?
+enter a decimal number larger than 0.0",1
+how many years of computer games experience do you currently have?,1
+how many years of engineering experience do you currently have?,1
+how many years of work experience do you have with unreal engine?,1
+how many years utilizing unreal engine?,1
+"how many years of work experience do you have with databases?
+enter a whole number between 0 and 99",1
+"how many years of work experience do you have with business development?
+enter a whole number between 0 and 99",1
+"are you comfortable commuting to this job's location?
+are you comfortable commuting to this job's location?
+required
+yes
+no
+please make a selection",Yes
+how many years of work experience do you have with databases?,1
+how many years of work experience do you have with business development?,1
+"are you comfortable commuting to this job's location?
+are you comfortable commuting to this job's location?
+required
+yes
+no",Yes
+quanti anni di esperienza di lavoro hai con python?,user provided
+quanti anni di esperienza di lavoro hai con elaborazione del linguaggio naturale?,user provided
+"quanti anni di esperienza di lavoro hai con large language models (llm)?
+inserisci un numero whole compreso fra 0 e 99",user provided
+"qual è il tuo grado di conoscenza della lingua inglese?
+qual è il tuo grado di conoscenza della lingua inglese?
+requis
+       seleziona un’opzione
+       nessuno
+       parlato
+       professionale
+       madrelingua o bilingue
+  ",user provided
+"qual è il tuo grado di conoscenza della lingua italiano?
+qual è il tuo grado di conoscenza della lingua italiano?
+requis
+       seleziona un’opzione
+       nessuno
+       parlato
+       professionale
+       madrelingua o bilingue
+   seleziona un’opzione",user provided
+"how many years of work experience do you have with motion tracking?
+enter a whole number between 0 and 99",Yes
+"how many years of work experience do you have with computer vision?
+enter a whole number between 0 and 99",Yes
+"how many years of work experience do you have with 3d?
+enter a whole number between 0 and 99",Yes
+"¿cuántos años de experiencia tienes con hive?
+introduce un número de whole entre 0 y 99",user provided
+"by checking this box, you will declare that you read and understand the veolia environnement sa privacy policy, and the smartrecruiters privacy policy and smartrecruiters  terms of use.
+by checking this box, you will declare that you read and understand the veolia environnement sa, and the smartrecruitersand smartrecruiters.
+requis
+i agree terms & conditions
+select checkbox to proceed",user provided
+"¿cuántos años de experiencia tienes con github?
+introduce un número de whole entre 0 y 99",user provided
+"¿cuántos años de experiencia tienes con apache spark?
+introduce un número de whole entre 0 y 99",user provided
+"¿cuál es tu nivel de inglés?
+¿cuál es tu nivel de inglés?
+requis
+       selecciona una opción
+       ninguno
+       conversación
+       profesional
+       nativo o bilingüe
+  ",user provided
+how many years of work experience do you have with python (programming language)?,1
+"do you have a postgraduate degree in computer science?
+do you have a postgraduate degree in computer science?
+requis
+       select an option
+       yes
+       no
+   please enter a valid answer",Yes
+"how many years dl experience do you have?
+enter a decimal number larger than 0.0",1
+¿cuántos años de experiencia tienes con python?,user provided
+"¿cuántos años de experiencia tienes con analítica empresarial?
+introduce un número de whole entre 0 y 99",user provided
+how many years of work experience do you have with artificial intelligence (ai)?,1
+"how many years of work experience do you have with microsoft azure?
+enter a whole number between 0 and 99",1
+how many years of work experience do you have with microsoft azure machine learning?,1
+"are you comfortable working in a remote setting?
+are you comfortable working in a remote setting?
+requis
+yes
+no",Yes
+"what is your level of proficiency in spanish?
+what is your level of proficiency in spanish?
+requis
+       select an option
+       none
+       conversational
+       professional
+       native or bilingual
+   please make a selection",user provided
+"what is your level of proficiency in english?
+what is your level of proficiency in english?
+requis
+       select an option
+       none
+       conversational
+       professional
+       native or bilingual
+  ",user provided
+"how many years of work experience do you have with python (programming language)?
+enter a whole number between 0 and 99",1
+"how many years of work experience do you have with tensorflow?
+enter a whole number between 0 and 99",1
+"we are also running a young ai talent campaign through an external program/partner and would be helpful to know if you are under 30 years old - just for statistics matter. 
+we are also running a young ai talent campaign through an external program/partner and would be helpful to know if you are under 30 years old - just for statistics matter.
+requis
+       select an option
+       yes
+       no
+   please enter a valid answer",user provided
+how many years of work experience do you have with tensorflow?,1
+"we are also running a young ai talent campaign through an external program/partner and would be helpful to know if you are under 30 years old - just for statistics matter. 
+we are also running a young ai talent campaign through an external program/partner and would be helpful to know if you are under 30 years old - just for statistics matter.
+requis
+       select an option
+       yes
+       no
+  ",user provided
+how many years of work experience do you have with microsoft azure?,1
+how many years of work experience do you have with motion tracking?,1
+how many years of work experience do you have with computer vision?,1
+how many years of work experience do you have with 3d?,1
+"do you have a postgraduate degree in computer science?
+do you have a postgraduate degree in computer science?
+requis
+       select an option
+       yes
+       no
+  ",Yes
+how many years dl experience do you have?,1
+"quanti anni di esperienza di lavoro hai con programmazione?
+inserisci un numero whole compreso fra 0 e 99",2
+"quanti anni di esperienza di lavoro hai con api development?
+inserisci un numero whole compreso fra 0 e 99",2
+"sei disponibile a lavorare da remoto?
+sei disponibile a lavorare da remoto?
+requis
+sì
+no",user provided
+"qual è il tuo grado di conoscenza della lingua italiano?
+qual è il tuo grado di conoscenza della lingua italiano?
+requis
+       seleziona un’opzione
+       nessuno
+       parlato
+       professionale
+       madrelingua o bilingue
+  ",Professionale
+quanti anni di esperienza di lavoro hai con programmazione?,2
+quanti anni di esperienza di lavoro hai con api development?,2
+"have you completed the following level of education: bachelor's degree?
+have you completed the following level of education: bachelor's degree?
+requis
+yes
+no",user provided
+how many years of work experience do you have with machine learning?,2
+"are you legally authorized to work in the eu? 
+are you legally authorized to work in the eu?
+requis
+       select an option
+       yes
+       no
+   please enter a valid answer",user provided
+"how many years of work experience do you have with nosql?
+enter a whole number between 0 and 99",2
+"how many years of work experience do you have with typescript?
+enter a whole number between 0 and 99",2
+"are you willing to undergo a background check, in accordance with local law/regulations?
+are you willing to undergo a background check, in accordance with local law/regulations?
+requis
+yes
+no",Yes
+how many years of work experience do you have with nosql?,2
+how many years of work experience do you have with typescript?,2
+desired salary,--------
+"earliest start date?
+earliest start date?",user provided
+"are you willing to undergo a background check, fingerprinting and credit check, in accordance with local law/regulations?
+are you willing to undergo a background check, fingerprinting and credit check, in accordance with local law/regulations?
+requis
+yes
+no
+yes, and will need to provide additional information.",Yes
+"are you legally authorized to work in the united states?
+are you legally authorized to work in the united states?
+requis
+yes
+no",Yes
+"will you now, or in the future, require sponsorship for employment visa status (e.g. h-1b visa status)?
+will you now, or in the future, require sponsorship for employment visa status (e.g. h-1b visa status)?
+requis
+yes
+no",No
+"does the posted salary range align with your career goals?
+does the posted salary range align with your career goals?
+requis
+yes
+no
+negotiable",--------
+"do you have at least 2 years' experience in a business environment?
+do you have at least 2 years' experience in a business environment?
+requis
+yes
+no
+less than 2",2
+what is your experience level in excel and what types of tasks/projects you have done?,2
+"how many years of experience do you have with extract, tranform, lead (etl) and what does that include?",2
+"what programming languages are you comfortable with, and can you describe a project where you used these languages for data analysis?",Professional
+how do you clean and preprocess data before analysis? can you provide an example of a data cleaning task you've performed in the past?,Yes
+"what interests you most about this role, and what do you hope to achieve as a junior data analyst at our organization?",Yes
+"are you currently working in usa?
+are you currently working in usa?
+requis
+yes
+no",Yes
+"earliest start date?
+earliest start date?
+veuillez utiliser le format jj/mm/aaaa lors de la saisie d’une date.",user provided
+"street address line 1
+please enter a valid answer",user provided
+"city
+city
+please enter a valid answer",user provided
+"state
+please enter a valid answer",user provided
+zip / postal code,user provided
+street address line 1,user provided
+state,user provided
+"experience in riskshield or riskshield developer
+enter a decimal number larger than 0.0",2
+"experience in financial crime(kyc/aml/cybercrime pattern)
+enter a decimal number larger than 0.0",2
+"experience in data analysis- python
+enter a decimal number larger than 0.0",2
+"experience in linux scripting/customized /automation
+enter a decimal number larger than 0.0",2
+"for this position candidates has to relocate to client location (amsterdam netherlands) 
+for this position candidates has to relocate to client location (amsterdam netherlands)
+requis
+       select an option
+       yes
+       no
+   please enter a valid answer",yes
+experience in riskshield or riskshield developer,2
+experience in financial crime(kyc/aml/cybercrime pattern),2
+experience in data analysis- python,2
+experience in linux scripting/customized /automation,2
+"for this position candidates has to relocate to client location (amsterdam netherlands) 
+for this position candidates has to relocate to client location (amsterdam netherlands)
+requis
+       select an option
+       yes
+       no
+  ",yes
+how many years of work experience do you have with mongodb?,2
+"how many years of work experience do you have with flask?
+enter a whole number between 0 and 99",2
+"how many years of work experience do you have with sql server reporting services (ssrs)?
+enter a whole number between 0 and 99",2
+how many years of work experience do you have with tableau?,2
+"how many years of hospitals and health care experience do you currently have?
+enter a whole number between 0 and 99",2
+"how many years of analyst experience do you currently have?
+enter a whole number between 0 and 99",2
+"how many years of work experience do you have with microsoft power bi?
+enter a whole number between 0 and 99",2
+how many years of work experience do you have with sql server reporting services (ssrs)?,2
+how many years of hospitals and health care experience do you currently have?,2
+how many years of analyst experience do you currently have?,2
+how many years of work experience do you have with microsoft power bi?,2
+how many years of work experience do you have with sql?,2
+"how many years of work experience do you have with salesforce marketing cloud?
+enter a whole number between 0 and 99",2
+"how many years of work experience do you have with microsoft excel?
+enter a whole number between 0 and 99",2
+"this position unfortunately cannot work c2c or provide visa sponsorship at any time. would you require one or both of these now or in the future (including opt to h1b)?
+this position unfortunately cannot work c2c or provide visa sponsorship at any time. would you require one or both of these now or in the future (including opt to h1b)?
+requis
+       select an option
+       yes
+       no
+   please enter a valid answer",yes
+"are you able to work on w2 from day 1?
+are you able to work on w2 from day 1?
+requis
+       select an option
+       yes
+       no
+   please enter a valid answer",yes
+"are you able to work on est?
+are you able to work on est?
+requis
+       select an option
+       yes
+       no
+   please enter a valid answer",yes
+how many years of work experience do you have with microsoft excel?,2
+"this position unfortunately cannot work c2c or provide visa sponsorship at any time. would you require one or both of these now or in the future (including opt to h1b)?
+this position unfortunately cannot work c2c or provide visa sponsorship at any time. would you require one or both of these now or in the future (including opt to h1b)?
+requis
+       select an option
+       yes
+       no
+  ",yes
+"are you able to work on w2 from day 1?
+are you able to work on w2 from day 1?
+requis
+       select an option
+       yes
+       no
+  ",yes
+"are you able to work on est?
+are you able to work on est?
+requis
+       select an option
+       yes
+       no
+  ",yes

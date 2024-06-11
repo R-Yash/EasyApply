@@ -1,0 +1,75 @@
+username: <>
+password: '<>'
+phone_number: <>
+
+profile_path: '' #can be empty, will default to 'C:\Users\<user>\AppData\Local\Google\Chrome\User Data\Default'
+
+positions:
+- Web Developer
+
+locations:
+- United States
+
+remote: True # True or False
+
+salary: 60,000
+rate: 25
+# --------- Optional Parameters -------
+# Absolute path to Resume and Cover letter
+uploads:
+  Resume: C:\Users\USER\Desktop\EasyApply\cv.pdf
+  Cover Letter: C:\Users\USER\Desktop\Easy-Apply\cl.pdf
+  #Photo: # PATH TO photo
+
+# Absolute path to output file. Change this accordingly
+output_filename:
+- C:\Users\USER\Desktop\EasyApply\out.csv
+
+# blacklist:
+# - # Company names you want to ignore
+
+experience_level:
+  # - 1 # Entry level
+  # - 2 # Associate
+  # - 3 # Mid-Senior level
+  # - 4 # Director
+  # - 5 # Executive
+  # - 6 # Internship
+
+
+# --------- Question and Answers -------
+
+# Replace X as directed.
+# You can add put multiple keywords in x.
+# For example how many.*experience.*with Python
+#             how many.*experience.*with SQL        
+#             how many.*experience.*with Java etc. Just modify X. do not change the structure before X
+keyword:
+  how many.*experience.*with X: "2" # Years of Experience in a skill X. 
+  sponsorship.*employment: "yes" # Will you need sponsorship to relocate. Yes or No
+  willing.*commute.*: "yes" # Willing to commute to work. Yes or No
+  scale.*1-10.*rate.*X: '8' # Rate your proficiency in a skill X from 1-10
+  legally authorized.*work.*X: 'yes' # Are you legally authorized to work in the country X. Yes or No
+  proficiency.*X: 'professional' # What is your proficiency in a Language X. None, Conversational, Professional, Native
+  comfortable.*remote setting: 'yes' # Willing to work remotely. Yes or No
+  comfortable.*onsite setting: 'yes' # Willing to work in an office. Yes or No
+  comfortable.*hybrid setting: 'yes' # Willing to work in a hybrid setting. Yes or No
+  completed.*education.*X: 'yes' # Do you have a degree X. Yes or no
+  grade point average.*4.0 gpa scale: "4" # Your GPA on a 4.0 scale
+  annual salary.*: "78000" # Your annual salary expectation
+  start immediately: "yes" # Can you start immediately. Yes or No
+  willing.*background check: 'yes' # Willing to undergo a background check. Yes or No
+  experience.*X: 'yes' # Do you have experience with some technology X. Yes or No
+  willing.*drug test: "yes" # Willing to undergo a drug test. Yes or No
+  
+  # These are general terms. If any of the above fail to trigger, this will trigger 
+  .*experience.*: "2" # Default answer for experience related questions
+  .*you.*: "yes" # Default answer for Yes or No questions
+
+  # Personal Information related questions. Generally these do not matter and can be left as is.
+  gender: 'Male'
+  race: 'Wish not to answer'
+  lgbtq: 'Wish not to answer'
+  ethnicity: 'Wish not to answer'
+  nationality: 'Wish not to answer'
+  government: 'I do not wish to self-identify'
